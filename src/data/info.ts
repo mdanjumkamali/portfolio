@@ -1,7 +1,7 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://anjumkamali.vercel.app",
   name: "Md Anjum Kamali",
-  jobDescription: "Web Developer",
+  jobDescription: "Full Stack Developer",
   about: `
   I'm a Full Stack Developer based in India.
    I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
