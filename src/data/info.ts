@@ -2,12 +2,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Md Anjum Kamali",
   jobDescription: "Web Developer",
-  about: `I'm a Full Stack based in India.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-I have experience in HTML, CSS, SCSS, JavaScript, Typescript, tailwind CSS, React JS, and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, and Python with time.
+  about: `
   `,
 
   socialMedia: {
